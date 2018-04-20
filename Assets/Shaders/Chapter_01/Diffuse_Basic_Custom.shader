@@ -10,7 +10,7 @@
 		//정오표
 		//https://www.packtpub.com/books/content/support/11712
 
-Shader "CookbookShaders/Diffuse_Basic_Custom" 
+Shader "CookbookShaders/Chapter_01/Diffuse_Basic_Custom" 
 {
 	Properties 
 	{

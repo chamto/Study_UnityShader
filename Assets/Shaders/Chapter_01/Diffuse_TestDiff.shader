@@ -1,4 +1,4 @@
-﻿Shader "CookbookShaders/Diffuse_TestDiff" 
+﻿Shader "CookbookShaders/Chapter_01/Diffuse_TestDiff" 
 {
 	Properties 
 	{
