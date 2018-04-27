@@ -1,4 +1,4 @@
-﻿Shader "CookbookShaders/Chapter_02/ScrollingUVs" 
+﻿Shader "Cookbook_First/Chapter_02/ScrollingUVs" 
 {
 	Properties 
 	{

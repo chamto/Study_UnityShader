@@ -1,4 +1,4 @@
-Shader "CookbookShaders/Chapter_06/Depth001" 
+Shader "Cookbook_First/Chapter_06/Depth001" 
 {
 	Properties 
 	{

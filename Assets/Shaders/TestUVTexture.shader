@@ -1,4 +1,4 @@
-﻿Shader "CookbookShaders/Custom/TestUVTexture" {
+﻿Shader "Cookbook_First/Custom/TestUVTexture" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}

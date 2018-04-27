@@ -1,4 +1,4 @@
-Shader "CookbookShaders/Chapter_06/GUI_RenderQueue" 
+Shader "Cookbook_First/Chapter_06/GUI_RenderQueue" 
 {
 	//We create our properties here so we can see them in the Unity Inspector
 	Properties 

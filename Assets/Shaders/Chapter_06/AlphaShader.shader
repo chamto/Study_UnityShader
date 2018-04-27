@@ -1,4 +1,4 @@
-Shader "CookbookShaders/Chapter_06/SimpleAlpha" 
+Shader "Cookbook_First/Chapter_06/SimpleAlpha" 
 {
 	Properties 
 	{
